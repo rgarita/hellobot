@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  },
+  "devDependencies": {
+    "restify": "^4.3.0"
+  },
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "First Bot",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgarita/hellobot.git"
+  },
+  "author": "Raul Garita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgarita/hellobot/issues"
+  },
+  "homepage": "https://github.com/rgarita/hellobot#readme"
+}
